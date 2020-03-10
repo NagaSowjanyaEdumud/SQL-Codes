@@ -1,0 +1,7 @@
+show databases;
+
+General command for creating a database:
+CREATE DATABASE database_name;
+
+An example:
+CREATE DATABASE soap_store;
