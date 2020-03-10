@@ -1,0 +1,7 @@
+USE database_name;
+
+Example:
+USE dog_walking_app;
+
+To check what databse we are currently using:
+SELECT database(); -----> This gives the name of the database we are currently using.
