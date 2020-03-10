@@ -1,0 +1,6 @@
+DROP DATABASE database_name;
+
+Example:
+DROP DATABASE hello_world_db;
+
+***Remember to be careful with this command! Once you drop a database, it's gone!***
