@@ -1,0 +1,4 @@
+INSERT INTO tablename(column_name) VALUES (data);
+
+Example:
+INSERT INTO cats(names, age) VALUES('Jerry', 2);
