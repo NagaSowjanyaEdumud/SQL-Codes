@@ -1,0 +1,6 @@
+DROP TABLE tablename;
+
+Example:
+DROP TABLE cats;
+
+*** dropped its gone for ever... so beware****
