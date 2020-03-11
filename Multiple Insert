@@ -1,0 +1,11 @@
+INSERT INTO table_name
+            (column_name, column_name)
+VALUES      (value, value),
+            (value, value),
+            (value, value);
+            
+Example:
+INSERT INTO cats(name, age);
+VALUES ('Tom', 2),
+       ('Jerry', 7),
+       ('Sadie', 4);
